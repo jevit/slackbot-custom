@@ -2,7 +2,7 @@ package slack.data;
 
 import java.util.StringJoiner;
 
-public class MessageSlack {
+public class MessageSlack extends Message {
 
 	private String emoji;
 
